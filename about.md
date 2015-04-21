@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Alex, and this is my blog...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will mainly be writing about my experience on Makers Academy but will also be talking about a wide range of tech topics I'm interested in
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[handy437@gmail.com](mailto:email@domain.com)
