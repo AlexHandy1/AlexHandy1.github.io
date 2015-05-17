@@ -4,7 +4,7 @@
 title: Alex Handy
 description: "Blogging about web development and tech interests"
 analytics: UA-50546869-2
-baseurl: "/solid-jekyll" #important: start with /
+baseurl: "/solid-jekyll" #important: start with / #how set this up to my actual AlexHandy1 acct?
 url: "http://alexhandy1.github.io"
 
 # Build settings
